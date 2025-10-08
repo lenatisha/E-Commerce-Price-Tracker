@@ -29,5 +29,5 @@ Ideal for price monitoring, market research, and data analysis.
 
 1️⃣ Clone this repository:
 ```bash
-git clone https://github.com/yourusername/ecommerce-price-tracker.git
-cd ecommerce-price-tracker
+git clone https://github.com/lenatisha/E-Commerce-Price-Tracker.git
+cd E-Commerce Price Tracker
